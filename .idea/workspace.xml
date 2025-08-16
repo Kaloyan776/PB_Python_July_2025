@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2eb4e69d-9c0a-437d-bdee-31424bfc2810" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zPZ2xRhibKlW5lolqzySxkpIYd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01. USD to BGN.executor": "Run",
+    "Python.01_.executor": "Run",
+    "Python.01_Cinema.executor": "Run",
+    "Python.01_Clock.executor": "Run",
+    "Python.01_Number_Pyramid.executor": "Run",
+    "Python.01_Numbers_Ending_in_7.executor": "Run",
+    "Python.01_Numbers_from_1_to_100.executor": "Run",
+    "Python.01_Old_Books.executor": "Run",
+    "Python.01_Read_Text.executor": "Run",
+    "Python.01_Sum_Seconds.executor": "Run",
+    "Python.02_.executor": "Run",
+    "Python.02_Equal_Sums_Even_Odd_Position.executor": "Run",
+    "Python.02_Exam_Preparation.executor": "Run",
+    "Python.02_Greater_Number.executor": "Run",
+    "Python.02_Half_Sum_Element.executor": "Run",
+    "Python.02_Multiplication_Table.executor": "Run",
+    "Python.02_Numbers_1...N_with_Step_3.executor": "Run",
+    "Python.02_Password.executor": "Run",
+    "Python.03. Deposit Calculator.executor": "Run",
+    "Python.03_.executor": "Run",
+    "Python.03_Combinations.executor": "Run",
+    "Python.03_Even_Powers_of_2.executor": "Run",
+    "Python.03_Histogram.executor": "Run",
+    "Python.03_New_House.executor": "Run",
+    "Python.03_Sum_Numbers.executor": "Run",
+    "Python.03_Time_+_15_Minutes.executor": "Run",
+    "Python.03_Vacation.executor": "Run",
+    "Python.04. Vacation books list.executor": "Run",
+    "Python.04_.executor": "Run",
+    "Python.04_Clever_Lily.executor": "Run",
+    "Python.04_Fishing_Boat.executor": "Run",
+    "Python.04_Numbers_N...1.executor": "Run",
+    "Python.04_Password_Guess.executor": "Run",
+    "Python.04_Sequence_2k+1.executor": "Run",
+    "Python.04_Sum_of_Two_Numbers.executor": "Run",
+    "Python.04_Toy_Shop.executor": "Run",
+    "Python.04_Walking.executor": "Run",
+    "Python.05. Supplies for School.executor": "Run",
+    "Python.05_.executor": "Run",
+    "Python.05_Account_Balance.executor": "Run",
+    "Python.05_Character_Sequence.executor": "Run",
+    "Python.05_Coins.executor": "Run",
+    "Python.05_Godzilla_vs_Kong.executor": "Run",
+    "Python.05_Journey.executor": "Run",
+    "Python.05_Salary.executor": "Run",
+    "Python.05_Travelling.executor": "Run",
+    "Python.06. Repainting.executor": "Run",
+    "Python.06_.executor": "Run",
+    "Python.06_Building.executor": "Run",
+    "Python.06_Max_Number.executor": "Run",
+    "Python.06_Operations_Between_Numbers.executor": "Run",
+    "Python.06_Oscars.executor": "Run",
+    "Python.06_Vowels_Sum.executor": "Run",
+    "Python.07_Area_of_Figures.executor": "Run",
+    "Python.07_Moving.executor": "Run",
+    "Python.07_Sum_Numbers.executor": "Run",
+    "Python.08. Basketball Equipment.executor": "Run",
+    "Python.08_Number_sequence.executor": "Run",
+    "Python.08_Pet_Shop.executor": "Run",
+    "Python.09. Fish Tank.executor": "Run",
+    "Python.09_Left_and_Right_Sum.executor": "Run",
+    "Python.10_Odd_Even_Sum.executor": "Run",
+    "Python.exercise.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eb4e69d-9c0a-437d-bdee-31424bfc2810" name="Changes" comment="" />
+      <created>1751634466643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751634466643</updated>
+    </task>
+    <servers />
+  </component>
+</project>
